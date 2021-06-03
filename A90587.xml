@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the county of Essex to the Honourable House of Commons, subscribed with above twenty thousand hands, and attended to London with above two thousand horsemen. Presented to the house the 18 Jan. 1641. by Sir Richard Everard, Sir John Barrington, Sir William Martin, Mr. William Massum, Esqrs. and 16 other of the chiefe knights and gentlemen in the shire. Also the humble petition of the county of Sommeset [sic].</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90587</idno><idno type="EEBO-CITATION">99871334</idno>
+  <idno type="VID">156342</idno>
+  <idno type="EEBO-PROQUEST">2240929370</idno>
+  
+            <idno type="STC">Wing P1793</idno>
+            <idno type="STC">Thomason E131_24</idno>
+            <idno type="STC">ESTC R212759</idno>
+            <idno type="PROQUEST">99871334</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871334e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90587)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156342)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E131[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the county of Essex to the Honourable House of Commons, subscribed with above twenty thousand hands, and attended to London with above two thousand horsemen. Presented to the house the 18 Jan. 1641. by Sir Richard Everard, Sir John Barrington, Sir William Martin, Mr. William Massum, Esqrs. and 16 other of the chiefe knights and gentlemen in the shire. Also the humble petition of the county of Sommeset [sic].</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coules &amp; T. Bancks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156342:1"/>
+            <p>THE PETITION Of the County of ESSEX to the Ho<g ref="char:EOLhyphen"/>nourable House of <hi>Commons,</hi> subscribed with above twenty thousand hands, and attended to LONDON with above two thousand HORSEMEN.</p>
+            <p>Presented to the House the 18 <hi>Jan.</hi> 1641. by Sir <hi>Richard Everard,</hi> Sir <hi>John Barrington,</hi> Sir <hi>William Martin,</hi> Mr. <hi>William Massum,</hi> Esq<seg rend="sup">rs.</seg>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d 16 other of the chiefe Knights and Gentlemen in the Shire.</p>
+            <p>
+               <hi>ALSO</hi> The humble <hi>Petition</hi> of the <hi>County</hi> of SOMMESET.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>F. Coules</hi> &amp; <hi>T. Bancks.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="petition_to_Parliament">
+            <pb facs="tcp:156342:2"/>
+            <pb n="1" facs="tcp:156342:2"/>
+            <head type="sub">TO THE HONOVRABLE, THE <hi>KNIGHTS &amp; BVRGESSES</hi> of the House of Commons in the High Court of PARLIAMENT.</head>
+            <head>The humble Petition of the Knights, Gentlemen, Ministers, and other Inhabitants in the Countie of <hi>Essex,</hi>
+            </head>
+            <opener>SHEWETH</opener>
+            <p>
+               <seg rend="decorInit">V</seg>Nto this Honourable House, that we are truly sensible of your great care and ex<g ref="char:EOLhyphen"/>traordinary endeavours to settle our Religion &amp; Peace, and daily give thanks to God Almighty for it; and wee doe further in all humility present to your Honourable Consideration, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat wee doe ap<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d a great stop of Reforma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion in matter of Reli<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> our selves together with you and the w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ol<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be in great danger of the Papists, and <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fected persons, who are every where ver<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:156342:3"/> are ready to act the parts of those savage blood-suckers in <hi>Ireland,</hi> if they be not speedily prevented, by meanes whereof our Trading, specially of Cloathing and Far<g ref="char:EOLhyphen"/>ming grow a great pace to so great a dampe, as many thousands are like to come to sudden want; nor can we expect any redresse thereof, unlesse the Bishops and Popish Lords be removed out of the House of Peeres.</p>
+            <p>Therefore we humbly pray, that you would earnest<g ref="char:EOLhyphen"/>ly mediate with his Majesty and House of Peers, that our Brethren in <hi>Ireland</hi> may speedily be relieved, and the Papists throughout this Kingdome may be disar<g ref="char:EOLhyphen"/>med, and that such defects of Armes, as in your discre<g ref="char:EOLhyphen"/>tion shall appeare to be meet, may be speedily supplied, and this County and Kingdome put into such war-like posture, as may be best for its defence and safety, and that such Captaines and Officers, w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll affected to Reli<g ref="char:EOLhyphen"/>gion, may be appointed, as to your great Wisedome shall seem fit, And that the Bish<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps and Popish Lords, who, as we conceive, have hindred the successe of your godly endeavours, may be put out of the House of Peers, not doubting, but then our Petition formerly presented to this House will receive the more full and speedy answer,</p>
+            <closer>And your Petitioners, resolving in all just and honou<g ref="char:EOLhyphen"/>rable wayes, according to the late <hi>PROTESTATI<g ref="char:EOLhyphen"/>ON,</hi> to assist you with our lives and estates, against the enemies of God, the King and State, humbly pray to Almighty God for your good successe.</closer>
+         </div>
+         <div type="petition_to_Parliament">
+            <pb n="3" facs="tcp:156342:3"/>
+            <head type="sub">TO THE HONOURABLE Assembly of COMMONS in this pre<g ref="char:EOLhyphen"/>sent PARLIAMENT.</head>
+            <head>The humble Petition of divers Knights, Gentle<g ref="char:EOLhyphen"/>men, Clergy, and other Inhabitants of the <hi>Coun<g ref="char:EOLhyphen"/>ty of Sommerset.</hi>
+            </head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>HAT having with great joy of minde often heard of the pious inclination of this Ho<g ref="char:EOLhyphen"/>nourable assembly unto the Reformation of Church Government, and having of late (not without some regret seene a Pe<g ref="char:EOLhyphen"/>tition in the name of the Knights, Gentlemen and o<g ref="char:EOLhyphen"/>thers of this County, tending most to the Confirmati<g ref="char:EOLhyphen"/>on of Episcopall power: We have thought it our duty likewise to rouse up our affection unto Gods cause, and in all humility to lay these expressions thereof at the feet of this great Councell, as being (under God) the
+<pb n="4" facs="tcp:156342:4"/> chiefe Arbitrator between our joy and sorrow.</p>
+            <p>For the present Church Government, of what right it is, we may not dispute, presuming it to be subject to the power of this Honourable Assembly; Neither doth it much import how ancient it is, or how neere the Apostles daies, seeing we know that in the daies of the Apostles themselves, the mystery of iniquity began to worke, and that by the efficacious operation of the same, the man of sin hath advanced himselfe from the Episcopal Chaire to the top of Antichristian Tyranny. But that this Government is the wisest and most pious that any people hath been blest withall since the Apo<g ref="char:EOLhyphen"/>stles dayes (what ever others may beleeve) we presume is no part of the Creed of this great Councell; whose godly zeal in purging the corruptiōs, &amp; punishing the enemie of the true Church, being already in part made manifest, doth rather give us a just cause to hope that God hath yet some further blessing of <hi>Reformation</hi> for us, to be wrought by the same hands, In prosecution whereof, if it shall enter into your hearts at this time to give a deadly wound unto that power, against which you have received so many Complaints, we are sure you shall not walke in an unknowne path, but such as hath been troden before you by almost all the Churches of God which have exchanged the superstition and bon<g ref="char:EOLhyphen"/>dage of <hi>Rome,</hi> for the glorious light and liberty of the Gospell. Neither may it be conceived as the least de<g ref="char:EOLhyphen"/>gree of indignity offered to the blessed memory of those ancient or latter Bishops who have so well deser<g ref="char:EOLhyphen"/>ved of the Church of God both in life and death, if that Government which they have adorned by their singu<g ref="char:EOLhyphen"/>lar pietie and vertues being through the corruption and wickednesse of those which have suceeded them
+<pb n="5" facs="tcp:156342:4"/> made intollerable, shall by your just authority be abo<g ref="char:EOLhyphen"/>lished. Or if the number and merit of learned and god<g ref="char:EOLhyphen"/>ly Bishops, famous in their generations be presumed to be a reasonable inducemēt for the continuation of that Government, we leave it to consideration of this wise Councel, whether the great and far surpassing multi<g ref="char:EOLunhyphen"/>tude of ambitious, ungodly, and in famous Prelates, in most Countries and Ages by-past, be not a more effe<g ref="char:EOLhyphen"/>ctuall motive for the extirpation of the same. Hereun<g ref="char:EOLhyphen"/>to if we adde the present experience even in these our daies of their many insolencies and outrages against the truth and power of godlinesse, suppressing and cor<g ref="char:EOLhyphen"/>rupting Gods Ordinances▪ Unhallowing his day, per<g ref="char:EOLhyphen"/>secuting his Ministers; Their late mischievous attempt to impose on us and our posteritity and insupportable Yoake of servitude, and that which deserveth the high<g ref="char:EOLhyphen"/>est pitch of Zeale and all the bowels of this Honoura<g ref="char:EOLhyphen"/>ble Senate, the notorious multitude of profane and scandalous Ministers, the most active and malitious e<g ref="char:EOLhyphen"/>nemies unto Reformation, and the authoritie from which it is desired. We trust that all this together, with much more well knowne to this Honourable As<g ref="char:EOLhyphen"/>sembly, will be sufficient to justify the feares we have conceived of so dangerous a power.</p>
+            <p>Wherefore, being perswaded in our mindes, that it will be a worke acceptable unto God, of great advan<g ref="char:EOLhyphen"/>tage and comfort to the Churches of Christ, and no lesse conducing to the safetie, peace and strength of all His Majesties Kingdomes; wee most humbly implore the Authoritie and Zeale of this Honourable Assembly to proceed unto the full accomplishment of the same; And having laid the Axe to the roote of this Tree, to doe unto it as unto a Plant, which the Heavenly Father
+<pb n="6" facs="tcp:156342:5"/> h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th no<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> planted, that neither the spreading boughes of the same may over-shadow the Vineyard of the LORD, nor the bitter fruit thereof make sad the hearts of the people of GOD any more for ever.</p>
+            <p>These are the desires of your most humble Petiti<g ref="char:EOLhyphen"/>oners, and wee are perswaded, would have beene the expressions of multitudes more of true-hearted Christi<g ref="char:EOLhyphen"/>ans and Subjects, had there not beene some indirect practices used in soliciting the former Petition; Wher<g ref="char:EOLhyphen"/>by many were won to subscribe thereunto, who have sithence declared themselves in the point of Episcopa<g ref="char:EOLhyphen"/>cie, to have beene at the doing thereof otherwise af<g ref="char:EOLhyphen"/>fected. How beit unto us it is sufficiet, that relying whol<g ref="char:EOLhyphen"/>ly on the good Providence of GOD, the Pietie and Wisedome of this Honourable Assembly, and the sin<g ref="char:EOLhyphen"/>ceritie of our owne intentions, wee cannot want the comforts of a good hope, while wee have the libertie to powre out our soules unto Almightie GOD to con<g ref="char:EOLhyphen"/>tinue and encrease his favours and gratious aspect to<g ref="char:EOLhyphen"/>wards this Honourable and Religious Assembly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
